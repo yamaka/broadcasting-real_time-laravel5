@@ -1,13 +1,13 @@
 # Real-time Todo App Example
 
-This is the starter code for the article that demostrates Laravel's broadcasting events functionality
+Proyecto donde se ve Broadcasting en laravel para eventos RealTime en Laravel
 
 ## Install Instructions
 
 * Clone repository
 
     ```bash
-    git clone https://github.com/cwt137/l51-todo-app todo-app
+    git clone https://github.com/diegofertr/broadcasting-real_time-laravel5.git todo-app
     ```
 
     ```bash
